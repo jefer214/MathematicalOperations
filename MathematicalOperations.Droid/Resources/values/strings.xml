@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MathematicalOperations.Droid</string>
+    <string name="action_settings">Settings</string>
+	<string name="option_prompt">Seleccione una operación</string>
+	<string name="show_historical">Ver histórico</string>
+	<string name="enterfirtsnumber">Introduzca el primer número:</string>
+	<string name="entersecondnumber">Introduzca el segundo número:</string>
+	<string name="nodatalist">No hay datos para mostrar</string>
+	<string name="textresult">Resultado</string>
+	<string name="mathematicaloperations">Operaciones matemáticas</string>
+	<string name="firstnumber">Primer número</string>
+	<string name="secondnumber">Segundo número</string>
+	<string name="textoperation">Operación</string>
+	<string-array name="options_array">
+		<item>Seleccione una operación</item>
+		<item>Suma</item>
+		<item>Resta</item>
+		<item>Multiplicación</item>
+		<item>División</item>
+		<item>Residuo</item>
+		<item>Raíz cuadrada Primer número</item>
+	</string-array>
+</resources>
